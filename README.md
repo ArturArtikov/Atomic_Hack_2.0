@@ -80,7 +80,7 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-![accelerate](https://img.shields.io/badge/accelerate-%23faec3e.svg?style=for-the-badge)
+![accelerate](https://img.shields.io/badge/accelerate-%23faec3e.svg?style=for-the-badge&logo=accelerate)
 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
