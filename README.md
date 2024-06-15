@@ -77,10 +77,12 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PDFMiner](https://img.shields.io/badge/PDFMiner-%23fb5252.svg?style=for-the-badge)
 
-
+![Transformers](https://img.shields.io/badge/Transformers-%23f0b60c.svg?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-![accelerate](https://img.shields.io/badge/accelerate-%23faec3e.svg?style=for-the-badge&logo=accelerate)
+![Accelerate](https://img.shields.io/badge/Accelerate-%23faec3e.svg?style=for-the-badge)
+
+![Langchain](https://img.shields.io/badge/Langchain-%23eca574.svg?style=for-the-badge&logo=Langchain)
 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
