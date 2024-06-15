@@ -75,7 +75,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PDFMiner](https://img.shields.io/badge/PyPDF2-%23150c0c.svg?style=for-the-badge&logoColor=red)
+![PDFMiner](https://img.shields.io/badge/PyPDF2-%23fb5252.svg?style=for-the-badge&logoColor=red)
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
