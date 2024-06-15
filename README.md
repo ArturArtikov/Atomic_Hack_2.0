@@ -56,14 +56,15 @@
 
 ## Командный состав
 
-Команда: __*Название команды*__
+Команда: __*Netrunners*__
 
 Список участников команды:
 
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
-* [Фамилия Имя](ссылка на GitHub): Капитан/Участник | Специализация
+* [Надежда Агафонова](https://t.me/LanderWine): Капитан | Product Manager
+* [Карим Галлямов](https://t.me/kgall739): ML-Engineer
+* [Артур Артиков](https://t.me/ArturArtikov): Data Scientist
+* [Степан Золин](https://t.me/DrHeogg): Data Scientist
+* [Дмитрий Фалеев](https://t.me/ioslik): Product Analyst
 
 <br/>
 
@@ -85,7 +86,3 @@
 ![Langchain](https://img.shields.io/badge/Langchain-%23eca574.svg?style=for-the-badge&logo=Langchain)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-
-
-[Главная страница портфолио](ссылка)
